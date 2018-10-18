@@ -1,6 +1,9 @@
 # Arduino Auto Switch Off
 Switch off EVERYTHING including the Arduino itself
 
+# See video #123 at https://www.youtube.com/ralphbacon  
+(Direct link to video: https://youtu.be/g1rbIG2BO0U)
+
 Building on the experiences of recent power-saving videos, I thought I would try as an experiment whether we could switch off the Arduino itself as well as any surrounding circuitry - and then switch it back on again via some external stimulus.
 
 All data sheets, code examples and similar are right here on my GitHub!
