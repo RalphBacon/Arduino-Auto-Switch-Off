@@ -8,6 +8,15 @@ Building on the experiences of recent power-saving videos, I thought I would try
 
 All data sheets, code examples and similar are right here on my GitHub!
 
+Data sheet for typical N-Channel MOSFET (IRLZ44N)
+http://www.irf.com/product-info/datasheets/data/irlz44n.pdf
+
+Data sheet for typical N-Channel MOSFET (IRL3705N)
+https://www.infineon.com/dgdl/irl3705n.pdf?fileId=5546d462533600a40153565f29f42532
+
+Data sheet for typical P-Channel MOSFET (NDP6020P)
+https://cdn.shopify.com/s/files/1/0174/1800/files/NDP6020P.pdf?7646591425453007768
+
 And it can be done very easily and with minimal external components. Just two MOSFETs (possibly a single MOSFET and an NPN transistor might be enough) and a couple of resistors and we're done.
 
 The circuit and a breadboard example are all included in this video along with some chat about the MOSFET and what you must NOT do to them if they are to survive.
