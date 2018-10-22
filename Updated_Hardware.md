@@ -4,4 +4,4 @@ One reader, Jose Baars, has successfully implemented this circuit using a single
 
 For details see here: https://github.com/gitpeut/IRF7317-selfextinction/blob/master/README.md  
 
-Thanks to Jose, just shows how much we can condense this hardware when we want!
+Thanks to Jose, just shows how much we can condense this hardware when we want! 
